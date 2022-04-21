@@ -24,10 +24,10 @@ paginate     = 10
   keywords = "homepage, blog"
   images = [""]
 
-#[taxonomies]
-#    category = "blog"
-#    tag      = "tags"
-#    series   = "series"
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
 
 [languages]
   [languages.en]
@@ -47,6 +47,7 @@ paginate     = 10
     name       = "hello"
     url        = "/hello"
 
+[[menu.main]]
     identifier = "research"
     name       = "research"
     url        = "/research"    
