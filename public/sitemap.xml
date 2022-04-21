@@ -2,22 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/publications/</loc>
+    <loc>http://example.org/posts/</loc>
     <lastmod>2022-04-20T21:40:20-04:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
     <lastmod>2022-04-20T21:40:20-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/short_bio/</loc>
+    <loc>http://example.org/short-bio/</loc>
     <lastmod>2022-04-20T21:40:20-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/publications/first-test/</loc>
+    <loc>http://example.org/posts/first-test/</loc>
     <lastmod>2022-04-20T21:40:20-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/publications/posts/first-test/</loc>
-    <lastmod>2022-04-20T21:40:20-04:00</lastmod>
-  </url><url>
-    <loc>http://example.org/short_bio/first-test/</loc>
+    <loc>http://example.org/short-bio/first-test/</loc>
     <lastmod>2022-04-20T21:40:20-04:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/</loc>
@@ -27,6 +24,10 @@
     <lastmod>2022-04-20T21:40:20-04:00</lastmod>
   </url><url>
     <loc>http://example.org/blog/</loc>
+  </url><url>
+    <loc>http://example.org/publications/first-test/</loc>
+  </url><url>
+    <loc>http://example.org/publications/</loc>
   </url><url>
     <loc>http://example.org/series/</loc>
   </url>

@@ -5,23 +5,13 @@
     <link>http://example.org/publications/</link>
     <description>Recent content in Publications on sandra romero pinto</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2022 21:40:20 -0400</lastBuildDate><atom:link href="http://example.org/publications/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://example.org/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sromero pinto</title>
+      <title>Peer reviewed</title>
       <link>http://example.org/publications/first-test/</link>
-      <pubDate>Wed, 20 Apr 2022 21:40:20 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/publications/first-test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sromero pinto</title>
-      <link>http://example.org/publications/posts/first-test/</link>
-      <pubDate>Wed, 20 Apr 2022 21:40:20 -0400</pubDate>
-      
-      <guid>http://example.org/publications/posts/first-test/</guid>
       <description></description>
     </item>
     

@@ -9,28 +9,19 @@
     <lastBuildDate>Wed, 20 Apr 2022 21:40:20 -0400</lastBuildDate><atom:link href="http://example.org/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sromero pinto</title>
-      <link>http://example.org/publications/first-test/</link>
+      <link>http://example.org/posts/first-test/</link>
       <pubDate>Wed, 20 Apr 2022 21:40:20 -0400</pubDate>
       
-      <guid>http://example.org/publications/first-test/</guid>
+      <guid>http://example.org/posts/first-test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sromero pinto</title>
-      <link>http://example.org/publications/posts/first-test/</link>
+      <link>http://example.org/short-bio/first-test/</link>
       <pubDate>Wed, 20 Apr 2022 21:40:20 -0400</pubDate>
       
-      <guid>http://example.org/publications/posts/first-test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sromero pinto</title>
-      <link>http://example.org/short_bio/first-test/</link>
-      <pubDate>Wed, 20 Apr 2022 21:40:20 -0400</pubDate>
-      
-      <guid>http://example.org/short_bio/first-test/</guid>
+      <guid>http://example.org/short-bio/first-test/</guid>
       <description></description>
     </item>
     
