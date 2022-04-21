@@ -43,16 +43,8 @@ paginate     = 10
   # And you can even create generic menu
   
 [[menu.main]]
-    identifier = "short bio"
-    name       = "short bio"
-    url        = "/short bio"
+    identifier = "hello"
+    name       = "hello"
+    url        = "/hello"
     
-  [[menu.main]]
-    identifier = "publications"
-    name       = "publications"
-    url        = "/publications"
 
-[[menu.main]]
-    identifier = "blog"
-    name       = "blog"
-    url        = "/posts"
