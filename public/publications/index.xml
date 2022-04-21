@@ -16,5 +16,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Sromero pinto</title>
+      <link>http://example.org/publications/posts/first-test/</link>
+      <pubDate>Wed, 20 Apr 2022 21:40:20 -0400</pubDate>
+      
+      <guid>http://example.org/publications/posts/first-test/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

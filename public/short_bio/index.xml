@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Short_bios on sandra romero pinto</title>
+    <link>http://example.org/short_bio/</link>
+    <description>Recent content in Short_bios on sandra romero pinto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 21:40:20 -0400</lastBuildDate><atom:link href="http://example.org/short_bio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sromero pinto</title>
+      <link>http://example.org/short_bio/first-test/</link>
+      <pubDate>Wed, 20 Apr 2022 21:40:20 -0400</pubDate>
+      
+      <guid>http://example.org/short_bio/first-test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
