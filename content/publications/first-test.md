@@ -7,5 +7,3 @@ images:
 tags:
   - untagged
 ---
-
-Example
