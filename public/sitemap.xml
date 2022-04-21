@@ -23,12 +23,10 @@
     <loc>http://example.org/tags/untagged/</loc>
     <lastmod>2022-04-20T21:40:20-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>http://example.org/categories/</loc>
   </url><url>
     <loc>http://example.org/publications/first-test/</loc>
   </url><url>
     <loc>http://example.org/publications/</loc>
-  </url><url>
-    <loc>http://example.org/series/</loc>
   </url>
 </urlset>
