@@ -1,6 +1,6 @@
 ## Publications - Peer Reviewed
 
-- **Romero Pinto,SA.**, Height,AE., Clayton,K., Resnik,J., Williamson,R., Hancock,KE., Polley,DB. Cellular and widefield imaging of sound frequency organization in primary and higher order fields of the mouse auditory cortex. *Cerebral Cortex} (2020)
+- **Romero Pinto,SA.**, Height,AE., Clayton,K., Resnik,J., Williamson,R., Hancock,KE., Polley,DB. Cellular and widefield imaging of sound frequency organization in primary and higher order fields of the mouse auditory cortex. *Cerebral Cortex* (2020)
 
 - Aravindakshan,P., **Romero Pinto,SA.**, Lewis,RM.,Goedicke,W., Polley,DB. Data-driven segmentation of audiometric phenotypes across a large clinical cohort. *Nature Scientific Reports* (2020)
 
@@ -26,7 +26,7 @@
 
 - **Romero Pinto,SA.**, Height,AE., Balaram,P., Resnik,J., Hancock,KE., Polley,DB. Spatial organization of primary and higher-order fields in the mouse auditory cortex. *ARO* (2019)
 
-- Aravindakshan,P., **Romero Pinto,SA.**, Hancock,KE., Polley,DB. Individual variability in temporal fine structure processing underlying speech-in noise intelligibility in listeners with normal audiograms. *ARO} (2019)
+- Aravindakshan,P., **Romero Pinto,SA.**, Hancock,KE., Polley,DB. Individual variability in temporal fine structure processing underlying speech-in noise intelligibility in listeners with normal audiograms. *ARO* (2019)
 
 - **Romero Pinto,SA.**, Height,AE., Resnik,J., Polley,DB. Data-driven segmentation of mouse auditory cortical fields based on mesoscale optical Ca2+ imaging. *Society for Neuroscience* (2017) 
 
