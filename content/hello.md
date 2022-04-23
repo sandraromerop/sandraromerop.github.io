@@ -10,4 +10,4 @@ Before that, I did a Bachelors in Biomedical Engineering, in between [Politecnic
 Also! I'm from Peru and I grew up very near the Pacific Ocean. It should be mentioned that I'm slightly addicted to surfing.
 
 {{< image src="/sandra_romero.jpeg" alt="Picture in Punta Roquitas-Lima, Peru" position="center" style="border-radius: 8px;" >}}
-*Picture in Punta Roquitas Beach -Lima, Peru* 
+*Punta Roquitas Beach -Lima, Peru* 

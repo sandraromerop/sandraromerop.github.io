@@ -1,12 +1,12 @@
 ## Publications - Peer Reviewed
 
-- **Romero Pinto,SA.**, Height,AE., Clayton,K., Resnik,J., Williamson,R., Hancock,KE., Polley,DB. Cellular and widefield imaging of sound frequency organization in primary and higher order fields of the mouse auditory cortex. *Cerebral Cortex* (2020)
+- **Romero Pinto,SA.**, Height,AE., Clayton,K., Resnik,J., Williamson,R., Hancock,KE., Polley,DB. Cellular and widefield imaging of sound frequency organization in primary and higher order fields of the mouse auditory cortex. *Cerebral Cortex* (2020) [.pdf](/publications/romero_pinto_cerebral_cortex_2020.pdf)
 
-- Aravindakshan,P., **Romero Pinto,SA.**, Lewis,RM.,Goedicke,W., Polley,DB. Data-driven segmentation of audiometric phenotypes across a large clinical cohort. *Nature Scientific Reports* (2020)
+- Aravindakshan,P., **Romero Pinto,SA.**, Lewis,RM.,Goedicke,W., Polley,DB. Data-driven segmentation of audiometric phenotypes across a large clinical cohort. *Nature Scientific Reports* (2020)[.pdf](/publications/parthasarathy_sc_reports_2020.pdf)
 
-- Gaillet,V., Cutrone,A., Artoni,F., Vagni,P., Mega Pratiwi,A., **Romero Pinto,SA.**, Lipucci Di Paola,D., Micera,S., Ghezzi,D. Spatially selective activation of the visual cortex via intraneural stimulation of the optic nerve. *Nature  Biomedical Engineering* (2019)
+- Gaillet,V., Cutrone,A., Artoni,F., Vagni,P., Mega Pratiwi,A., **Romero Pinto,SA.**, Lipucci Di Paola,D., Micera,S., Ghezzi,D. Spatially selective activation of the visual cortex via intraneural stimulation of the optic nerve. *Nature  Biomedical Engineering* (2019)[.pdf](/publications/gaillet_nat_biom_eng_2019.pdf)
 
-- Nist-Lund,CA., Pan,B., Patterson,A., Asai,Y., Chen,T., Zhou,W., Zhu,H., **Romero Pinto,SA.**, Resnik,J., Polley,DB., Geleoc,G., Holt,J. Improved TMC1 gene therapy restores hearing and balance in mice with genetic inner ear disorders. *Nature Communications* (2019)
+- Nist-Lund,CA., Pan,B., Patterson,A., Asai,Y., Chen,T., Zhou,W., Zhu,H., **Romero Pinto,SA.**, Resnik,J., Polley,DB., Geleoc,G., Holt,J. Improved TMC1 gene therapy restores hearing and balance in mice with genetic inner ear disorders. *Nature Communications* (2019)[.pdf](/publications/nist_lund_nat_comm_2019.pdf)
 
 ## Publications - In preparation
 
@@ -16,13 +16,13 @@
 
 ## Contributed talks
 
-- **Romero Pinto,SA.**, Uchida,N. Linking tonic dopamine and biased value predictions in a biologically inspired reinforcement learning model. *Multi-disciplinary Conference on Reinforcement Learning and Decision Making- RLDM* (2022)
+- **Romero Pinto,SA.**, Uchida,N. Linking tonic dopamine and biased value predictions in a biologically inspired reinforcement learning model. *Multi-disciplinary Conference on Reinforcement Learning and Decision Making- RLDM* (2022)[.pdf](/conferences/romero_rldm_2022.pdf)
 
-- **Romero Pinto,SA.**, Uchida,N. Linking tonic dopamine and biased value predictions in a biologically inspired reinforcement learning model. *Cosyne* (2022) 
+- **Romero Pinto,SA.**, Uchida,N. Linking tonic dopamine and biased value predictions in a biologically inspired reinforcement learning model. *Cosyne* (2022) [.pdf](/conferences/romero_cosyne_2022.pdf)
 
 ## Conference Abstracts
 
-- **Romero Pinto,SA.**, Uchida,N. Distributional reinforcement learning explains ensemble dopamine responses in habenula lesioned mice. *Cosyne* (2021) 
+- **Romero Pinto,SA.**, Uchida,N. Distributional reinforcement learning explains ensemble dopamine responses in habenula lesioned mice. *Cosyne* (2021) [.pdf](/conferences/romero_cosyne_2021.pdf)
 
 - **Romero Pinto,SA.**, Height,AE., Balaram,P., Resnik,J., Hancock,KE., Polley,DB. Spatial organization of primary and higher-order fields in the mouse auditory cortex. *ARO* (2019)
 
