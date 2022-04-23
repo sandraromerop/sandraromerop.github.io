@@ -52,3 +52,7 @@ paginate     = 10
     name       = "research"
     url        = "/research"    
 
+[[menu.main]]
+    identifier = "cv"
+    name       = "CV"
+    url        = "/cv"    

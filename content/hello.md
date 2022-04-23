@@ -1,7 +1,11 @@
-## 
-Hello!
+## Hello!
 
-![me](/static/sandra_romero.jpeg) 
+<!-- ![mee](../public/sandra_romero.jpeg)  -->
+
+<!-- [bla](sandra_romero.pdf) -->
+
+{{< image src="/sandra_romero.jpeg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+
 
 I'm Sandra Romero Pinto. I'm currently a Ph.D. student at Harvard University, in the [SHBT](https://shbtphd.hms.harvard.edu/) program of the [Division of Medical Sciences](https://gsas.harvard.edu/programs-of-study/divisions/division-medical-sciences). 
 
